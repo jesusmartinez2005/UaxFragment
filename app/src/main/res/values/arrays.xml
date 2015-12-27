@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="webs">
+        <item>http://www.uax.es</item>
+        <item>http://developer.android.com</item>
+        <item>http://www.google.es</item>
+    </string-array>
+</resources>
